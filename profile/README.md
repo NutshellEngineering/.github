@@ -1,3 +1,5 @@
+![](../nutshell.png)
+
 ## Nutshell Technology
 
 We're creating delightful technology that supports life-long learning.
