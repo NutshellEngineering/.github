@@ -1,4 +1,4 @@
-# Nutshell Technology
+# Nutshell Engineering
 
 We're creating delightful technology that supports life-long learning.
 
